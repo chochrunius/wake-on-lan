@@ -11,3 +11,4 @@ P.S. Prosím, zacpyte si oči, zapomněl jsem zamaskovat MAC adresu svého PC...
 - Nainstaluješ python
 - Zapneš skript a naforwarduješ přes router
 - Když je proces zamražen správcem android baterie, tak mamku prozvoň a spamuj: `curl http://Tvoja.IP:8080`
+- ... Jo a mamka musí být doma
