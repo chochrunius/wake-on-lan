@@ -9,7 +9,10 @@ Kontrola síťového portu:
 
 P.S. Prosím, zacpyte si oči, zapomněl jsem zamaskovat MAC adresu svého PC... dík
 
-## Setup na androidu (jestli si chudý jak já a nemáš peníze na Rasberi)
+## Požadavky a Setup na androidu (jestli si chudý jak já a nemáš peníze na Rasberi)
+- Samozřejmostí je mít povolený wake on lan na základní desce.
+- Další samozřejmostí je mít aktualizovaný síťový ovladač s požadovanou konfigurací v síťových zařízeních
+# Teď to hlavní!
 - Nainstaluješ mamce Termux emulátor přes F-droid
 - Nainstaluješ python
 - Zapneš skript a naforwarduješ přes router
