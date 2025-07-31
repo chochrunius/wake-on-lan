@@ -5,7 +5,7 @@ Skript naslouchá na zařízení v subnetu a jakmile přijde HTTP request zvenč
 <img width="420" height="180" alt="obrazek" src="https://github.com/user-attachments/assets/1d9819c7-ff69-48b2-ac46-82a06a22450c" />
 
 Kontrola síťového portu:
-curl sklep.chochrun.eu:8081 
+- curl sklep.chochrun.eu:8081 
 
 P.S. Prosím, zacpyte si oči, zapomněl jsem zamaskovat MAC adresu svého PC... dík
 
